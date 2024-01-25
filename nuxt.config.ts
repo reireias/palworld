@@ -6,8 +6,8 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/palworld/',
     head: {
-      titleTemplate: '%s - arknights',
-      title: 'arknights',
+      titleTemplate: '%s - palworld',
+      title: 'palworld',
       htmlAttrs: {
         lang: 'en',
       },
